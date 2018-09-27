@@ -117,9 +117,11 @@ iPad列表
 | iPad Pro 12.9 | iPad6,7  |          |      |
 | iPad Pro 12.9 | iPad6,8  |          |      |
 | iPad 5 (WiFi) | iPad6,11  |          |      |
+| iPad 5G  | iPad6,12  |           |      |
 | iPad Pro 12.9 inch 2nd gen (WiFi) | iPad7,1  |          |      |
 | iPad Pro 12.9 inch 2nd gen (Cellular) | iPad7,2  |          |      |
 | iPad Pro 10.5 inch (WiFi) | iPad7,3  |          |      |
+| iPad Pro 10.5 inch  | iPad7,4 |         |       |
 
 
 Apple TV 列表
